@@ -180,6 +180,7 @@
     "mainColor" : "#d2a74a",
     "licenseUrl": "http://califa.org/third-party-content",
     "privacyUrl": "http://califa.org/privacy-policy",
+    "supportEmail": "blackgoldhq@blackgold.org",
     "authPasscodeLength" : 0,
     "authPasscodeAllowsLetters" : true
   },
